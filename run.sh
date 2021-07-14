@@ -4,4 +4,4 @@ git add .
 git config user.email "shubhojyoti.b@gmail.com"
 git config user.name "Shubhojyoti Bhattacharya (auto commit)"
 git commit -m "Daily update $(date '+%Y-%m-%d-%H:%M')"
-GIT_SSH_COMMAND='ssh -i /home/shubho/.ssh/uberspace_github' git push origin master
+GIT_SSH_COMMAND='ssh -i /Users/shubhatt/.ssh/uberspace_github' git push origin master
